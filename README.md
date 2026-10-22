@@ -4,7 +4,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=joyboy6996&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128845566%3Fu%3D261936e8459463edae4a27381f0000564521292e%26v%3D4" alt="joyboy6996 hero visual" />
 </p>
 
-**Shivakrishna Reddy Japa** · Frontend or full-stack engineer
+**Shivakrishna Reddy Japa** · Backend Developer
 
 ## Currently studying
 
@@ -13,8 +13,8 @@
 **Learning next**
 
 - Kotlin
-- HTML
-- Python
+- Django
+- JavaScript
 
 👥 **78** followers · **105** following
 
@@ -88,5 +88,3 @@ A selected project from this GitHub profile.<br/>
 </p>
 
 <a href="https://github.com/joyboy6996">GitHub</a>
-
-<p align="center"><sub>Shivakrishna Reddy Japa · <a href="https://www.gitskins.com/readme-generator?template=community-study-hall-mr46">Study Hall</a> template by <a href="https://www.gitskins.com/templates">GitSkins</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
